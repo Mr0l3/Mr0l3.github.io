@@ -1,0 +1,9 @@
+body{
+    font-size: 1.2rem;
+    background-image: url("images/bgrd.jpeg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: white;
+}
